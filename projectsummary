@@ -1,0 +1,14 @@
+Project Summary
+
+What area of the world you used for your project? Post a link to the map position and write a short description. Note that the osm file of the map should be at least 50MB.
+URL: http://www.openstreetmap.org/#map=9/41.3270/-81.6420
+OSM-file download: http://metro.teczno.com/#cleveland
+
+I choosed Cleveland, Ohio and downloaded the osm-file from the source: http://metro.teczno.com/#cleveland. I choosed this file, because i think it is an interesting area.
+
+Is there a list of Web sites, books, forums, blog posts, github repositories etc that you referred to or used in this submission (Add N/A if you did not use  such resources)?
+sources for the iterparse-function in mapparser: 
+
+http://www.ibm.com/developerworks/xml/library/x-hiperfparse/
+http://effbot.org/elementtree/iterparse.htm
+http://www.jasondamiani.com/portfolio/data-wrangling-openstreetmaps-data/
